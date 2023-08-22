@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://spencerpao.github.io/sitemap.xml
+Sitemap: https://dmok22.github.io/sitemap.xml
